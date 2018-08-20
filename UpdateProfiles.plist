@@ -60,7 +60,7 @@
 			<string>16G1212</string>
 			<string>16G1314</string>
 		</array>
-		<key>10.13.6-17G65</key>
+		<key>10.13.6-17G2208</key>
 		<array>
 			<string>17A306f</string>
 			<string>17A291m</string>
@@ -129,7 +129,7 @@
 			<string>SecuritySierra</string>
 			<string>SafariSierra</string>
 		</array>
-		<key>10.13.6-17G65</key>
+		<key>10.13.6-17G2208</key>
 		<array>
 			<string>iTunesHighSierra</string>
 		</array>
@@ -138,7 +138,7 @@
 		</array>
 	</dict>
 	<key>PublicationDate</key>
-	<date>2018-08-14T15:23:31Z</date>
+	<date>2018-08-19T21:47:31Z</date>
 	<key>Updates</key>
 	<dict>
 		<key>AppStoreElCap</key>
